@@ -3,7 +3,25 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<p>Curated Backend developer with more than 5 years of experience in a variety of industries, including FinTech, eCommerce, and SaaS that maximize more than 4 million USD Weekly. Proven ability to develop scalable APIs using Node.js, Python, and Php. With the ability to write clean, maintainable code and work in a collaborative environment.🌟.</p>
+<p>A senior Backend Developer with 5+ years of experience building scalable products in a variety of industries, including FinTech, eCommerce, and SaaS that maximize more than 4 million USD Weekly. 
+
+Core areas of competencies: 
+
+- Software Development 
+- Rest API
+- Micro Service 
+- Test Driven Development 
+- Cloud hosting to AWS 
+- Data structure and Algorithms 
+- Design patterns 
+
+Technologies worked with: 
+
+### Languages: Python, Php, Typescript, JavaScript, Laraval
+### Frameworks : Node.js, Django, NESTjs
+### Infrastructure: AWS, Docker, Git, MYSQL, 
+
+Soft Skills: Teamwork, Critical thinking, communication, adaptability, problem-solving 🌟.</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
